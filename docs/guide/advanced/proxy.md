@@ -64,5 +64,5 @@ request({
 
 直接访问后端服务提供的页面 url 地址，然后将页面中加载的资源代理成本地调试的资源，推荐两种方案：
 
-1. **推荐**：通过 icejs 插件 [build-plguin-smart-debug](/plugin/list/smart-debug.md)
+1. **推荐**：通过 icejs 插件 [build-plugin-smart-debug](/plugin/list/smart-debug.md)
 2. [chrome 插件 xswitch](https://github.com/yize/xswitch)
